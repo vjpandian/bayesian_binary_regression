@@ -3,7 +3,7 @@ Bayesian Binary Regression
 
 This project is an attempt to assess the application of Bayesian methods to the marketing field.
 
-Introduction:
+#Introduction:
 -----------------------------
 
 In this project we attempt to assess the application of Bayesian methods to the marketing field. In 
@@ -24,7 +24,7 @@ to discover the relationship between age as a predictor variable and successful 
 
 response variable using Bayesian Binary Regression.
 
-Technologies Used:
+#Technologies Used:
 ___________________
 
 * Excel

@@ -20,7 +20,7 @@ defers from the normal logistic regression in the sense that it makes use of pri
 
 ''''the predictor variables in arriving at the posterior distribution of probability. In this project we attempt 
 
-to discover the relationship between age as a predictor variable and successful subscription as the 
+to discover the relationship between age as a predictor variable and successful subscription as the ''''
 
 response variable using Bayesian Binary Regression.
 

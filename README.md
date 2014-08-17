@@ -18,7 +18,7 @@ link the binomial outcome to continuous or categorical predictor variables. Baye
 
 defers from the normal logistic regression in the sense that it makes use of priors of the coefficients of 
 
-the predictor variables in arriving at the posterior distribution of probability. In this project we attempt 
+>the predictor variables in arriving at the posterior distribution of probability. In this project we attempt 
 
 to discover the relationship between age as a predictor variable and successful subscription as the 
 

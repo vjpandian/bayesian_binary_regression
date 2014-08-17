@@ -1,5 +1,5 @@
 Bayesian Binary Regression
-_____________________________
+==============================
 
 This project is an attempt to assess the application of Bayesian methods to the marketing field.
 

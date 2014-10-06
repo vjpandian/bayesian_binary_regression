@@ -11,8 +11,9 @@ predictor variables may be continuous or categorical. In such cases logistic reg
 
 ####Technologies Used:
 
+- Matlab
+- R
+- MS Excel
 
-* Excel
-* Matlab
-* R
+
 
